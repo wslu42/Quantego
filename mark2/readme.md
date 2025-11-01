@@ -3,8 +3,9 @@ Here we include the assembling instruction for Quantego mark 2:
 
 # The insert
 
-![quantego_ws2_insertp - Copy](https://user-images.githubusercontent.com/29524895/180614270-2179edbe-d54a-4bbf-b69a-cab1db149c60.png)
 [A nice tutorial provided by dilution fridge company BlueFors](https://bluefors.com/stories/how-does-a-dilution-refrigerator-work/) 
+
+![quantego_ws2_insertp - Copy](https://user-images.githubusercontent.com/29524895/180614270-2179edbe-d54a-4bbf-b69a-cab1db149c60.png)
 
 ## PDF instructions for the insert
 
